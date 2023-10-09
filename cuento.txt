@@ -1,3 +1,8 @@
+aparece el texto de las dos rams. siuuuuuuuuuuuuu.
+<<<<<<< HEAD
 el veloz murciegago indu comia feliz cardillo y kigui.
 
 la cigueña toca el saxofon detras del palenque de paja.
+=======
+el veloz murcielago hindu comia feliz cardillo y kiwi.
+>>>>>>> corregir
